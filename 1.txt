@@ -1,3 +1,2 @@
 This is practice for authentication check
-for git polling 
 check for webhook to work
